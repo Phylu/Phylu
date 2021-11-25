@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janosch</h1>
-<h3 align="center">A passionate software engineer and entrepreneur</h3>
+<h3 align="center">A passionate DevSecOps engineer and entrepreneur</h3>
 
 - 🔭 I’m currently working at [ottonova](https://www.ottonova.de)
 
