@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **IT Security & DevSecOps**
 
-- 📫 How to reach me [https://janosch-maier.de](https://janosch-maier.de)
+- 📫 How to reach me [https://janosch-braukmann.de](https://janosch-braukmann.de)
 
 - 📄 Know about my experiences [Download CV](https://janosch-maier.de/wordpress/wp-content/uploads/2011/09/lebenslauf.pdf)
 
