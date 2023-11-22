@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [https://janosch-braukmann.de/](https://janosch-braukmann.de/)
 
-- 📄 Know about my experiences [Download CV](https://janosch-maier.de/wordpress/wp-content/uploads/2011/09/lebenslauf.pdf)
+- 📄 Know about my experiences [Download CV](https://janosch-braukmann.de/wordpress/wp-content/uploads/2022/11/lebenslauf.pdf)
 
 - ⚡ Fun fact **I founded the second Linux User Group in Uganda**
 
